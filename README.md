@@ -21,7 +21,7 @@
 
 ## 下载
 
-前往 [Releases](https://github.com/BlackRiceArcher/disk-cleaner/releases) 下载 `磁盘清理工具.exe`，双击运行即可（会请求管理员权限，清理系统目录必需）。
+前往 [Releases](https://github.com/BlackRiceArcher/disk-cleaner/releases) 下载 `DiskCleaner.exe`（发布页标注为「磁盘清理工具.exe」，可自行重命名），双击运行即可（会请求管理员权限，清理系统目录必需）。
 
 ## 使用说明
 
