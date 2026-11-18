@@ -1,0 +1,10 @@
+# 构建产物
+*.exe
+*.pdb
+*.log
+bin/
+obj/
+
+# 本地临时文件
+test_build*
+shot*.png
